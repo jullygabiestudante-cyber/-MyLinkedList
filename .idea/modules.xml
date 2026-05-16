@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/MyLiskedList.iml" filepath="$PROJECT_DIR$/MyLiskedList.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/MyLinkedList.iml" filepath="$PROJECT_DIR$/MyLinkedList.iml" />
+>>>>>>> 5593434d6edfe227d8eaa97e01e08f7d1d733077
     </modules>
   </component>
 </project>
